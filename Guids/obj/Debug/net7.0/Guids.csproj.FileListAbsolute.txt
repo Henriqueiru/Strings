@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\Strings\Guids\bin\Debug\net7.0\Guids.exe
+C:\Users\Usuário\Documents\Strings\Guids\bin\Debug\net7.0\Guids.deps.json
+C:\Users\Usuário\Documents\Strings\Guids\bin\Debug\net7.0\Guids.runtimeconfig.json
+C:\Users\Usuário\Documents\Strings\Guids\bin\Debug\net7.0\Guids.dll
+C:\Users\Usuário\Documents\Strings\Guids\bin\Debug\net7.0\Guids.pdb
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.dll
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\refint\Guids.dll
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.pdb
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\Guids.genruntimeconfig.cache
+C:\Users\Usuário\Documents\Strings\Guids\obj\Debug\net7.0\ref\Guids.dll
